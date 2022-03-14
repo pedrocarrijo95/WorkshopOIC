@@ -11,7 +11,7 @@ Neste laboratório vamos montar uma integracão para chamar uma API do IBGE e re
 ### 1. Provisionar nosso ambiente OIC
 
 * Abra sua console do OCI
-![Alt text](/1.PNG "a title")
+![Alt text](./1.PNG "a title")
 
 * No menu lateral esquerdo, selecione a opcão de integration
 ![Alt text](/2.PNG "a title")

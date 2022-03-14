@@ -59,7 +59,7 @@ Auth: "No security Policy"
 ![Alt text](./15.PNG "a title")
 
 * Como primeiro conector vamos utilizar o "Sample Rest Endpoint", pode ser encontrado pesquisando ou então no menu lateral direito, indo em Rest Adapters e o encontrando na lista que aparecer.
-![Alt text](/.16.jpg "a title")
+![Alt text](./16.jpg "a title")
 
 * Configure o conector "acionador" da nossa integracão
 ![Alt text](./17.PNG "a title")
@@ -172,41 +172,12 @@ Auth: "No security Policy"
 ![Alt text](./42.PNG "a title")
 ![Alt text](./43.PNG "a title")
 
-```
-code blocks for commands
-```
+## Autor
 
-## Help
+Pedro Carrijo
+LinkedIn: [@pedrocarrijo](https://twitter.com/dompizzie)
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+## Documentacões adicionais
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [OIC-GETTING-STARTED](https://docs.oracle.com/en/cloud/paas/integration-cloud/index.html)
+* [OIC-REST-ADAPTER](https://docs.oracle.com/en/cloud/paas/integration-cloud/rest-adapter/index.html)

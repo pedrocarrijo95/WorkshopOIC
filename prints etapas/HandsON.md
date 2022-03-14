@@ -38,7 +38,8 @@ Neste laboratório vamos montar uma integracão para chamar uma API do IBGE e re
 * Configure o adaptador da seguinte maneira:
 ``` 
 Tipo de conexão: "URL Base da API Rest"
-URL de Conexão: https://servicodados.ibge.gov.br/api/v1/localidades Auth: "No security Policy"
+URL de Conexão: https://servicodados.ibge.gov.br/api/v1/localidades
+Auth: "No security Policy"
 ```
 ![Alt text](./10.PNG "a title")
 
